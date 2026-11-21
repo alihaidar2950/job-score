@@ -41,3 +41,17 @@ says what it couldn't judge (salary, visa) instead of guessing.
 verdicts held across our test runs. Treat it as a second opinion, not a hiring decision.
 
 MIT licence.
+
+---
+
+### What next? · شو بعد؟
+
+- ⭐ Star this repo if it helped, so more people find it.
+- Follow [@alihaidar.dev](https://www.instagram.com/alihaidar.dev/) on Instagram or [TikTok](https://www.tiktok.com/@alihaidar.dev) for the next free guide.
+- All my free guides: [github.com/alihaidar2950](https://github.com/alihaidar2950?tab=repositories)
+
+<div dir="rtl">
+
+إذا فادك، حطّ ⭐ عالـrepo، وتابعني عَ [إنستغرام](https://www.instagram.com/alihaidar.dev/) أو [تيك توك](https://www.tiktok.com/@alihaidar.dev) لتوصلك الأداة الجاية ببلاش.
+
+</div>
